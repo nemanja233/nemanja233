@@ -37,7 +37,7 @@
 ```cpp
 class ElectronicsEngineer {
 public:
-    std::string name     = "Your Name";
+    std::string name     = "Nemanja";
     std::string degree   = "Electronics Engineering";
     std::string focus[]  = {"Embedded Systems", "Signal Processing",
                             "Circuit Design", "IoT"};
